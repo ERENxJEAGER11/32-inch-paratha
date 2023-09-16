@@ -1,0 +1,20 @@
+{
+  "name": "32-inch-paratha",
+  "version": "1.0.0",
+  "description": "react-learning",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ERENxJEAGER11/32-inch-paratha.git"
+  },
+  "author": "Aman shekh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ERENxJEAGER11/32-inch-paratha/issues"
+  },
+  "homepage": "https://github.com/ERENxJEAGER11/32-inch-paratha#readme"
+}
+// this is configuration which npm needs to run itelf
